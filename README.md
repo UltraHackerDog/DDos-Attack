@@ -18,7 +18,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### cd DDos-Attack-Python3-Windows
 
-### python DDos-Attack-Python3-Windows.py
+### python ddos-attack.py
 
 ### ScreenShot 
 
