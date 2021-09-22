@@ -18,12 +18,11 @@ bytes = random._urandom(1490)
 #############
 
 os.system("cls")
-print
 print ("Author   : HA-MRX")
-print ("You Tube : https://www.youtube.com/c/HA-MRX")
-print ("github   : https://github.com/Ha3MrX")
-print ("Facebook : https://www.facebook.com/muhamad.jabar222")
-print
+print("Converted to Windows and Python3 by UltraHackerDog")
+print ("Author Github   : https://github.com/Ha3MrX")
+print ("Editor Github   : https://github.com/UltraHackerDog")
+print(-*50)
 ip = input("IP Target : ")
 port = input("Port       : ")
 port = int(port)
