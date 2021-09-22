@@ -1,7 +1,8 @@
-# Python 3 Version
-# Windows 10 Version
 
 # DDos-Attack 
+
+## Python 3 Version
+## Windows 10 Version
 
 ### What Is A DDos-Attack
 
@@ -9,25 +10,19 @@
 by overwhelming it with traffic from multiple sources. They target a wide variety of important resources
 from banks to news websites, and present a major challenge to making sure people can publish and access important information
 
+### forked from https://github.com/Ha3MrX/DDos-Attack
+
 ### Dwonload&Install
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+### git clone https://github.com/UltraHackerDog/DDos-Attack
 
 ### cd DDos-Attack
-
-### chmod +x ddos-attack.py
 
 ### python ddos-attack.py
 
 ### ScreenShot 
 
-![capture](https://user-images.githubusercontent.com/33704360/38769260-91bfc362-3fb4-11e8-86c6-d5a3ca13c31a.PNG)
+![Screenshot 2021-09-22 115734](https://user-images.githubusercontent.com/69469132/134324059-45080f60-7ca5-4fc2-8d69-47a096f813b5.png)
 
-### YouTube channel
 
-https://www.youtube.com/c/HA-MRX
-
-### Video Tutorial
-
-https://www.youtube.com/watch?v=-e3Iia_P7rA
 
