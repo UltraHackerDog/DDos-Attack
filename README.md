@@ -1,4 +1,8 @@
+# Python 3 Version
+# Windows 10 Version
+
 # DDos-Attack 
+
 ### What Is A DDos-Attack
 
 ### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
