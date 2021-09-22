@@ -14,11 +14,11 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-### git clone https://github.com/UltraHackerDog/DDos-Attack
+### git clone https://github.com/UltraHackerDog/DDos-Attack-Python3-Windows
 
-### cd DDos-Attack
+### cd DDos-Attack-Python3-Windows
 
-### python ddos-attack.py
+### python DDos-Attack-Python3-Windows.py
 
 ### ScreenShot 
 
